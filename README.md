@@ -1,6 +1,5 @@
+# Predicting Mammalian Sleep Durations Using Regression Models
 Machine learning Project with Python labs
-
-Predicting Mammalian Sleep Durations Using Regression Models
 
 ## Overview 
 
